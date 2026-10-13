@@ -1,6 +1,6 @@
 # LeetCode Notes
 
-Computer Science Student in UNNC
+ a Computer Science Student in University of Nottingham Ningbo, China (UNNC)
 
 Language: Python
 
