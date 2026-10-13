@@ -1,6 +1,6 @@
 # LeetCode Notes
 
-Computer Science Student @ UNNC
+Computer Science Student in UNNC
 
 Language: Python
 
